@@ -1,5 +1,5 @@
 # DATA WAREHOUSE PROJECT
-Credit: Data with Baara
+Credit: Data with Baraa
 
 ## 1. Project overview
 
